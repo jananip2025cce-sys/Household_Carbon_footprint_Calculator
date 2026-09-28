@@ -38,7 +38,7 @@ public class Activity {
         return usageAmount;
     }
 
-    public void setUsageAmount(Double usage) {
+    public void setUsageAmount(Double usageAmount) {
         this.usageAmount = usageAmount;
     }
 
